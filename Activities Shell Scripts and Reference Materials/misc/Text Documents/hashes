@@ -1,0 +1,20 @@
+GNU nano 2.9.3                     shadow_copy
+
+sysadmin:$6$zNDk8H3qfjrZuZAi$LgQr7IpPVAufOAej2ACASP4Per0MpRrY1kBTlIl.EniKGyqQWf$
+vboxadd:!:18212::::::
+sshd:*:18212:0:99999:7:::
+vagrant:$6$TMbK6/Bb$fetXYpy3xYnv6RZytLIYTlV.hu1zooiPRhc0RdTd8nuTlUfROXGip60sD87$
+instructor:$6$UOwmhhmO3cC5sAin$BiZedhEm9TzJHBekWD4z/FbB/PB92GgGNrtxlRKTHHQMY6dD$
+student:$6$zNDk8H3qfjrZuZAi$LgQr7IpPVAufOAej2ACASP4Per0MpRrY1kBTlIl.EniKGyqQWfd$
+jack:$6$ilIqVoXkja6GG8PK$tJm2P2pf3S7A/miYBVK0NzLpAzvCgLMckzLvA4K85FHc0KZgsKDmHe$
+john:$6$ilIqVoXkja6GG8PK$tJm2P2pf3S7A/miYBVK0NzLpAzvCgLMckzLvA4K85FHc0KZgsKDmHe$
+max:$6$WhPNYTYJx2jx25x$QWyTLD9PveEaCYeX7VUES2snOxuPtBwEPD.vP8NHdC3L.8zvAzdq5Ol5$
+adam:$6$v2/mxc36Kx4HWHuk$41kXVPzWJEZJM3i2.qm0xnZjl2RTQhvIRV2nhYks.vr4c7t0KthtVe$
+billy:$6$Q.zRCddM95YUJhGh$Ad/nHxr1.snlB9DdKz7HMWTtJTK3mEBbfqx9.eyKJuM9zXAOx4JB3$
+http:$6$RGoCEnyzpqbXgAJN$31tjLiGGY1Kf3TYx3xwSle8PQkpm8.kPDwE51LUtjNfvjH3qUskMzf$
+sally:$6$c0QGG1OFuiDGNKZT$wzbxLSWFOSyeSiyNZc2wNjaKr1B/w.D1xp7QBU0wG6xbBUbdZKEb1$
+postfix:*:18761:0:99999:7:::
+ftp:*:18761:0:99999:7:::
+dovecot:*:18761:0:99999:7:::
+dovenull:*:18761:0:99999:7:::
+jane:$6$5352819218ac27c8$DnFioOsc0fYoC58e8XHCyuRb65BlNO7O7A2ddFNL0zF/ovei2dzfww$

